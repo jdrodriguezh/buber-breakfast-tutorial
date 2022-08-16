@@ -1,0 +1,6 @@
+To create a webapi, run the command `dotnet new webapi -o NameOfTheApi`
+To build the project, run `dotnet build` 
+To add projects to the solution file, run `dotnet sln add Project1 Project2...`
+To add a reference to another project, run `dotnet add Project1 reference Project2`
+To run a project, run `dotnet run --project Project1`
+To add a new package to a project, run `dotnet add Project1 package PackageName`
